@@ -1,1 +1,0 @@
-Map download script will place map images in this folder, organized in subfolders by map volume.
